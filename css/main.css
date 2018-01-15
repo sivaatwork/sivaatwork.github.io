@@ -6,6 +6,23 @@ body {
   -o-background-size: cover;
 }
 
+h5 {
+  font: 'Oleo Script', Helvetica, sans-serif;
+  /*color: #2b2b2b;*/
+  color: #2E3192;
+}
+
+.list-group-item {
+  font: 'Pacifico', Helvetica, sans-serif;
+  color: #92602e;
+  font-weight: bold;
+}
+
+li {
+  font: 'Pacifico', Helvetica, sans-serif;
+  color: #2b2b2b;
+}
+
 .summary-section {
   padding: 6rem 0rem 0rem 0rem;
 }
